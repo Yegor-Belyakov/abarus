@@ -1,0 +1,25 @@
+.input_wrapper {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 14px;
+  width: 631px;
+height: 52px;
+background: #5a5c66;
+color: #b2b7bf;
+
+margin-left: 78px;
+margin-top: 23px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.wrapper input {
+  background: #5a5c66;
+ margin-left: 26px;
+ outline: none;
+ border: none;
+}
+
+.searchIcon {
+  margin-right: 16px;
+}
